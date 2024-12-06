@@ -1,4 +1,4 @@
-# Subindo um phishing para captura de senhas do Facebook para a internet
+# Subindo um phishing para captura de senhas do Facebook na internet
 
 ### Ferramentas
 
