@@ -22,7 +22,7 @@
 
 ### Resutados
 
-![Alt text](./poc-2.jpg "Optional title")
+![Alt text](./poc1.jpg "Optional title")
 
 ![Alt text](./poc-2.jpg "Optional title")
 
