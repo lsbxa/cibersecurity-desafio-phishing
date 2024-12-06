@@ -18,12 +18,14 @@
 - URL para clone: http://www.facebook.com
 
 ### Configurando o ssh
-> ssh -R 80:localhost:80 serveo.net
+- ssh -R 80:localhost:80 serveo.net
 
 ### Resutados
 
 ![Alt text](./poc1.jpg "Optional title")
 
 ![Alt text](./poc-2.jpg "Optional title")
+
+![Alt text](./poc-4.jpg "Optional title")
 
 ![Alt text](./poc-3.jpg "Optional title")
